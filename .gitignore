@@ -22,6 +22,7 @@ lib/
 lib64/
 parts/
 sdist/
+
 var/
 wheels/
 share/python-wheels/
@@ -79,12 +80,7 @@ docs/_build/
 .pybuilder/
 target/
 
-# Jupyter Notebook
-.ipynb_checkpoints
 
-# IPython
-profile_default/
-ipython_config.py
 
 # pyenv
 #   For a library or package, you might want to ignore these files since the code is
